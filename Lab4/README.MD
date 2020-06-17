@@ -1,1 +1,1 @@
-# Spring Security with JDBC Example Using the default Schmema
+# Spring Security with JDBC Example Using the default Schema
